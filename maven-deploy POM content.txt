@@ -10,4 +10,13 @@
     </snapshotRepository>
   </distributionManagement>
 
+
+or
+<distributionManagement>
+        <repository>
+            <id>local-repo</id>
+            <url>file:///path/to/local-repo</url>
+        </repository>
+    </distributionManagement>
+
 Note : In url add the path of local repo where you have to deploy
