@@ -25,3 +25,6 @@ OR
         </plugin>
     </plugins>
 </build>
+
+
+java -jar target/simpleproject-1.0-SNAPSHOT.jar
