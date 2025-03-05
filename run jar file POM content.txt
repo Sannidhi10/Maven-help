@@ -6,6 +6,7 @@
             </manifest>
           </archive>
 </configuration> 
+Place this under jar plugin version
 
 OR
 
